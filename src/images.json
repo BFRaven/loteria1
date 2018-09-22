@@ -1,0 +1,71 @@
+[
+{
+    "id": 1,
+    "name": "Gallo",
+    "image": "https://2.bp.blogspot.com/-S6EDRNrVeAw/WtDjPmcdHAI/AAAAAAAAA7o/DATuZ4WWc94An2w22PGau-wMdXrsJbXxgCLcBGAs/s1600/1%2Bel%2Bgallo.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Camaron",
+    "image": "http://i.pinimg.com/1200x/2f/d1/e8/2fd1e89c60e52827089c9c26835e7c34.jpg"
+    
+  },
+  {
+    "id": 3,
+    "name": "Diablito",
+    "image": "https://ih1.redbubble.net/image.417147321.0706/flat,550x550,075,f.u2.jpg"
+
+  },
+  {
+    "id": 4,
+    "name": "Jaras",
+    "image": "https://i.pinimg.com/originals/c6/30/22/c63022717d7d93ea6e8e518f0b3f04c5.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Corazon",
+    "image": "https://i.pinimg.com/originals/e5/39/23/e53923880111f1915dcf992de207c870.jpg"
+    
+  },
+  {
+    "id": 6,
+    "name": "Rosa",
+    "image": "https://i.pinimg.com/originals/24/a5/7c/24a57c97127e03be4e67b3a3415cd7c3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Bandera",
+    "image": "http://3.bp.blogspot.com/-gLZWpr2ba_I/TpTkhfyjT0I/AAAAAAAACCk/Xbe3jtNI23c/s320/Card-16---La-Bandera.jpg"
+ 
+  },
+  {
+    "id": 8,
+    "name": "Maceta",
+    "image": "https://i.pinimg.com/originals/3e/ef/9a/3eef9a0c1ee813e370c7eae0d1ee6b47.jpg"
+    
+  },
+  {
+    "id": 9,
+    "name": "Cotorro",
+    "image": "https://i.pinimg.com/originals/2d/29/0b/2d290b44d8da54cbfe533f6e203f0006.jpg"
+
+  },
+  {
+    "id": 10,
+    "name": "Botella",
+    "image": "https://bibliotecainfernal.files.wordpress.com/2015/02/naipe-botella.jpg?w=620"
+   
+  },
+  {
+    "id": 11,
+    "name": "Muerte",
+    "image": "https://hankthings.files.wordpress.com/2012/02/card-14-la-muerte.jpg"
+   
+  },
+  {
+    "id": 12,
+    "name": "Luna",
+    "image": "https://1.bp.blogspot.com/-6Yi_XH9-Arc/WKyZ3NRqZmI/AAAAAAAABXA/IGjqj4ixXnoQlv-sSyNT8W_WZzg3oQ1LQCEw/s1600/Fotor_148764774299534.jpg"
+    
+  }
+]
